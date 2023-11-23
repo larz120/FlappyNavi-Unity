@@ -1,5 +1,5 @@
 # FlappyNavi-Unity
-Videogame made with Unity and C#
+Videogame made with Unity and C# <br>
 Try my demo APK for android!
 
 # Screenshots
